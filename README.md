@@ -14,8 +14,8 @@ Pour plus d'informations, visitez le site officiel de WinActTool : [http://winac
 
 ## Installation
 1. Téléchargez la dernière version du WinActTool depuis la page des [releases](https://github.com/danbenba/WinActTool/releases/tag/lastedversion).
-2. Exécutez le fichier téléchargé et suivez les instructions d'installation.
-3. Un setup pour Office 2021 est également disponible dans le package.
+2. Exécutez le fichier téléchargé et suivez les instructions d'activation.
+3. Un setup pour Office 2021 est également disponible dans le package (Seulement dans le site web).
 
 ## Utilisation
 Après l'installation, lancez WinActTool et naviguez à travers les onglets pour accéder aux différentes fonctionnalités. Utilisez l'onglet "Activator" pour activer Windows ou Office. Suivez les instructions à l'écran pour compléter le processus d'activation.
@@ -35,7 +35,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 Distribué sous aucune licence.
 
 ## Contact
-Votre Nom - [@danbenba](https://twitter.com/danbenba_dev)  
+Twitter - [@danbenba](https://twitter.com/danbenba_dev)  
 Lien du Projet : [https://github.com/danbenba/WinActTool](https://github.com/danbenba/WinActTool)  
 Lien vers le site du créateur : [http://algoforge.rf.gd/](http://algoforge.rf.gd/)
 
