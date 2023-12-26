@@ -21,7 +21,12 @@ Pour plus d'informations, visitez le site officiel de WinActTool : [http://winac
 Après l'installation, lancez WinActTool et naviguez à travers les onglets pour accéder aux différentes fonctionnalités. Utilisez l'onglet "Activator" pour activer Windows ou Office. Suivez les instructions à l'écran pour compléter le processus d'activation.
 
 ## Statut Open Source
-Pour le moment, WinActTool n'est pas un projet open source. Les détails concernant l'ouverture du code source seront annoncés ultérieurement si cela devient pertinent.
+Pour le moment, WinActTool n'est pas un projet open source (sauf l'installer). Les détails concernant l'ouverture du code source seront annoncés ultérieurement si cela devient pertinent.
+
+## WinActTool Installer Source Code
+
+**Il est impératif de créditer le créateur original, danbenba, pour éviter toute action en justice.**
+
 
 ## Contributions
 Les contributions sont les bienvenues ! Pour contribuer :
