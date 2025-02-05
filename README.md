@@ -12,7 +12,7 @@ WinActTool est une application puissante et stable pour activer Windows et Micro
 - Interface utilisateur intuitive : Facile à utiliser, même pour les utilisateurs non techniques.
 - Vérification automatique des mises à jour : L'application vérifie et vous informe des nouvelles versions disponibles.
 
-## Site Officiel
+## Site Officiel (Fermer)
 Pour plus d'informations, visitez le site officiel de WinActTool : [http://winacttool.rf.gd/](http://winacttool.rf.gd/).
 
 ## Installation
@@ -29,6 +29,7 @@ Pour le moment, WinActTool n'est pas un projet open source (sauf l'installer). L
 ## Source Code
 
 **Libre d'utilisation !**
+
 
 
 ## Contributions
