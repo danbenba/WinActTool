@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\Dacra\Desktop\danbenba\Software\Development\Java\WinActTool\WinActTool\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+984405575.index
