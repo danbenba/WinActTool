@@ -1,4 +1,7 @@
-# WinActTool
+# WinActTool (Old)
+
+> [!CAUTION]
+> Le 05/02/2025, **WinActTool** devient définitivement un dépôt archivé en raison des nombreux bugs, des problèmes liés à Java et surtout de la nécessité d'avoir des dépendances spécifiques et des PCs particuliers. Face à ces contraintes, nous avons pris la décision d'arrêter la maintenance de **WinActTool** et de nous concentrer sur un tout nouveau projet : [OmniTools](https://github.com/danbenba/OmniTools).
 
 ## Description
 WinActTool est une application puissante et stable pour activer Windows et Microsoft Office. Elle offre une expérience utilisateur améliorée avec une compatibilité accrue pour les dernières versions de Windows et Office. L'outil est régulièrement mis à jour et offre un accès anticipé à de nouvelles fonctionnalités, le tout gratuitement.
@@ -23,9 +26,9 @@ Après l'installation, lancez WinActTool et naviguez à travers les onglets pour
 ## Statut Open Source
 Pour le moment, WinActTool n'est pas un projet open source (sauf l'installer). Les détails concernant l'ouverture du code source seront annoncés ultérieurement si cela devient pertinent.
 
-## WinActTool Installer Source Code
+## Source Code
 
-**Il est impératif de créditer le créateur original, danbenba, pour éviter toute action en justice.**
+**Libre d'utilisation !**
 
 
 ## Contributions
